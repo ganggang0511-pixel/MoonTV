@@ -1,39 +1,39 @@
 {
-  "cache_time": 7200,
+  "缓存时间"：7200，
   "api_site": {
     "1080zyku": {
       "api": "https://api.1080zyku.com/inc/api_mac10.php",
-      "name": "TV-1080资源",
-      "detail": "https://api.1080zyku.com"
+      "名称": "TV-1080资源",
+      "详情": "https://api.1080zyku.com"
     },
     "155api": {
       "api": "https://155api.com/api.php/provide/vod",
-      "name": "AV-155资源",
-      "detail": "https://155api.com"
+      "名称": "AV-155资源",
+      "详情": "https://155api.com"
     },
     "360zy": {
       "api": "https://360zy.com/api.php/provide/vod",
-      "name": "TV-360资源",
-      "detail": "https://360zy.com"
+      "名称": "TV-360资源",
+      "详情": "https://360zy.com"
     },
     "ckzy": {
       "api": "https://ckzy.me/api.php/provide/vod",
-      "name": "TV-CK资源",
-      "detail": "https://ckzy.me"
+      "名称": "TV-CK资源",
+      "详情": "https://ckzy.me"
     },
     "ukuapi": {
       "api": "https://api.ukuapi.com/api.php/provide/vod",
-      "name": "TV-U酷资源",
-      "detail": "https://api.ukuapi.com"
+      "名称": "TV-U酷资源",
+      "详情": "https://api.ukuapi.com"
     },
     "ukuapi88": {
       "api": "https://api.ukuapi88.com/api.php/provide/vod",
-      "name": "TV-U酷资源88",
-      "detail": "https://api.ukuapi88.com"
+      "名称": "TV-U酷资源88",
+      "详情": "https://api.ukuapi88.com"
     },
-    "ikunzy": {
+    "ikunzy"：{
       "api": "https://ikunzyapi.com/api.php/provide/vod",
-      "name": "TV-ikun资源",
+      "名称": "TV-ikun资源",
       "detail": "https://ikunzyapi.com"
     },
     "wujinapi_cc": {
